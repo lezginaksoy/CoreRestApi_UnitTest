@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26730.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ATM_Management_CoreRestApi", "ATM_Management_CoreRestApi\ATM_Management_CoreRestApi.csproj", "{A0E7F52C-627C-4F3C-9DFD-1F1E3E040BA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM_Managment_CoreRestApi.Test", "ATM_Managment_CoreRestApi.Test\ATM_Managment_CoreRestApi.Test.csproj", "{EE561236-D9DF-4768-8516-F27A931C8C4C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATM_Management_CoreRestApi_Test", "ATM_Management_CoreRestApi_Test\ATM_Management_CoreRestApi_Test.csproj", "{0E9731C2-400C-4602-9656-E72E10027E1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{A0E7F52C-627C-4F3C-9DFD-1F1E3E040BA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0E7F52C-627C-4F3C-9DFD-1F1E3E040BA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0E7F52C-627C-4F3C-9DFD-1F1E3E040BA2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EE561236-D9DF-4768-8516-F27A931C8C4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EE561236-D9DF-4768-8516-F27A931C8C4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EE561236-D9DF-4768-8516-F27A931C8C4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EE561236-D9DF-4768-8516-F27A931C8C4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E9731C2-400C-4602-9656-E72E10027E1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E9731C2-400C-4602-9656-E72E10027E1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E9731C2-400C-4602-9656-E72E10027E1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E9731C2-400C-4602-9656-E72E10027E1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

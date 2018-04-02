@@ -6,12 +6,12 @@ C:\Users\la185067\Projects\CoreRestApi_UnitTest\ATM_Managment_CoreRestApi.Test\b
 C:\Users\la185067\Projects\CoreRestApi_UnitTest\ATM_Managment_CoreRestApi.Test\bin\Debug\netcoreapp2.0\ATM_Managment_CoreRestApi.Test.runtimeconfig.dev.json
 C:\Users\la185067\Projects\CoreRestApi_UnitTest\ATM_Managment_CoreRestApi.Test\bin\Debug\netcoreapp2.0\ATM_Managment_CoreRestApi.Test.dll
 C:\Users\la185067\Projects\CoreRestApi_UnitTest\ATM_Managment_CoreRestApi.Test\bin\Debug\netcoreapp2.0\ATM_Managment_CoreRestApi.Test.pdb
+C:\Users\la185067\Projects\CoreRestApi_UnitTest\ATM_Managment_CoreRestApi.Test\bin\Debug\netcoreapp2.0\ATM_Management_CoreRestApi.dll
+C:\Users\la185067\Projects\CoreRestApi_UnitTest\ATM_Managment_CoreRestApi.Test\bin\Debug\netcoreapp2.0\ATM_Management_CoreRestApi.pdb
 C:\Users\la185067\Projects\CoreRestApi_UnitTest\ATM_Managment_CoreRestApi.Test\obj\Debug\netcoreapp2.0\ATM_Managment_CoreRestApi.Test.csprojResolveAssemblyReference.cache
 C:\Users\la185067\Projects\CoreRestApi_UnitTest\ATM_Managment_CoreRestApi.Test\obj\Debug\netcoreapp2.0\ATM_Managment_CoreRestApi.Test.csproj.CoreCompileInputs.cache
 C:\Users\la185067\Projects\CoreRestApi_UnitTest\ATM_Managment_CoreRestApi.Test\obj\Debug\netcoreapp2.0\ATM_Managment_CoreRestApi.Test.AssemblyInfoInputs.cache
 C:\Users\la185067\Projects\CoreRestApi_UnitTest\ATM_Managment_CoreRestApi.Test\obj\Debug\netcoreapp2.0\ATM_Managment_CoreRestApi.Test.AssemblyInfo.cs
+C:\Users\la185067\Projects\CoreRestApi_UnitTest\ATM_Managment_CoreRestApi.Test\obj\Debug\netcoreapp2.0\ATM_Managment_CoreRestApi.Test.csproj.CopyComplete
 C:\Users\la185067\Projects\CoreRestApi_UnitTest\ATM_Managment_CoreRestApi.Test\obj\Debug\netcoreapp2.0\ATM_Managment_CoreRestApi.Test.dll
 C:\Users\la185067\Projects\CoreRestApi_UnitTest\ATM_Managment_CoreRestApi.Test\obj\Debug\netcoreapp2.0\ATM_Managment_CoreRestApi.Test.pdb
-C:\Users\la185067\Projects\CoreRestApi_UnitTest\ATM_Managment_CoreRestApi.Test\bin\Debug\netcoreapp2.0\ATM_Management_CoreRestApi.dll
-C:\Users\la185067\Projects\CoreRestApi_UnitTest\ATM_Managment_CoreRestApi.Test\bin\Debug\netcoreapp2.0\ATM_Management_CoreRestApi.pdb
-C:\Users\la185067\Projects\CoreRestApi_UnitTest\ATM_Managment_CoreRestApi.Test\obj\Debug\netcoreapp2.0\ATM_Managment_CoreRestApi.Test.csproj.CopyComplete

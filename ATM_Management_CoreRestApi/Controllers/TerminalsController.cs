@@ -27,7 +27,9 @@ namespace ATM_Management_CoreRestApi.Controllers
         public IEnumerable<Terminal> Get()
         {
             var terminals = _TermRepo.GetAll();
+            int count = terminals.Count();
             return terminals;          
+
         }
 
         // GET: api/Terminals/5
