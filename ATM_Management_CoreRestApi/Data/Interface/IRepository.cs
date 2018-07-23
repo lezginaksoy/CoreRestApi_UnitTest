@@ -3,10 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ATM_Management_CoreRestApi.Data.Interface
+namespace Payment_Transactions.Model.Interface
 {
-    public interface IRepository<T> where T:class
+   public  interface IRepository<T> where T:class
     {
+
         IEnumerable<T> GetAll();
 
         IEnumerable<T> Find(Func<T, bool> predicate);

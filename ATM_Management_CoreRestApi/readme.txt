@@ -8,7 +8,8 @@
  Scaffold-DbContext "MyConnectioString" Npgsql.EntityFrameworkCore.PostgreSQL -OutputDir Data/Model -f -Context "AtmManagmentContext"
 
 
-
+  Scaffold-DbContext "User ID = postgres;Password=1;Server=localhost;Port=5432;Database=atm;Integrated Security=true; Pooling=true;" Npgsql.EntityFrameworkCore.PostgreSQL -OutputDir Data/Model -Schemas atm_mng -Context  AtmManagmentContext  -f
+PM> 
 
 
 

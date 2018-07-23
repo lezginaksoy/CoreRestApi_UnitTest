@@ -1,11 +1,12 @@
-﻿using ATM_Management_CoreRestApi.Data.Model;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Payment_Transactions.Model.Interface;
+using ATM_Management_CoreRestApi.Data.Model;
 
-namespace ATM_Management_CoreRestApi.Data.Interface
+namespace Payment_Transactions.Model.Repository
 {
     public abstract class Repository<T> : IRepository<T> where T : class
     {
@@ -31,7 +32,7 @@ namespace ATM_Management_CoreRestApi.Data.Interface
         {
             int RetVal = 0;
             _context.Remove(entity);
-             RetVal = Save();
+            RetVal = Save();
             return RetVal;
         }
 
@@ -53,7 +54,7 @@ namespace ATM_Management_CoreRestApi.Data.Interface
             return _context.Set<T>().Find(id);
         }
 
-   
+
         public IEnumerable<T> Find(Func<T, bool> predicate)
         {
             return _context.Set<T>().Where(predicate);
@@ -73,6 +74,8 @@ namespace ATM_Management_CoreRestApi.Data.Interface
         {
             return _context.Set<T>().Any();
         }
+
+
 
     }
 }

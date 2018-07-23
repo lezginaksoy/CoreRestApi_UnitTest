@@ -8,8 +8,6 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.EntityFrameworkCore;
-using ATM_Management_CoreRestApi.Data.Repository;
-using ATM_Management_CoreRestApi.Data.Interface;
 using Swashbuckle.AspNetCore.Swagger;
 using ATM_Management_CoreRestApi.Data.Model;
 
@@ -37,9 +35,8 @@ namespace ATM_Management_CoreRestApi
 
       
             services.AddEntityFrameworkNpgsql().AddDbContext<AtmManagmentContext>(opt =>
-            opt.UseNpgsql(Configuration.GetConnectionString("AtmConnection")));
+                opt.UseNpgsql(Configuration.GetConnectionString("AtmConnection")));
 
-            services.AddTransient<ITerminalRepository, TerminalRepository>();
 
             services.AddSwaggerGen(c =>
             {
